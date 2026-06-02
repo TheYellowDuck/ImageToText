@@ -2,6 +2,8 @@
 
 A desktop Java application that converts raster images into ASCII art in real time. Designed and built from scratch with a fully custom Swing GUI, off-screen rendering pipeline, and smooth zoom/pan interaction.
 
+https://github.com/TheYellowDuck/ImageToText/raw/main/demo.mp4
+
 ---
 
 ## Overview
