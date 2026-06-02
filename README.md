@@ -2,7 +2,7 @@
 
 A desktop Java application that converts raster images into ASCII art in real time. Designed and built from scratch with a fully custom Swing GUI, off-screen rendering pipeline, and smooth zoom/pan interaction.
 
-[![Demo](https://img.youtube.com/vi/wKVpjcZxiz4/hqdefault.jpg)](https://youtu.be/wKVpjcZxiz4)
+[![Demo](thumbnail.jpg)](https://youtu.be/wKVpjcZxiz4)
 
 ---
 
